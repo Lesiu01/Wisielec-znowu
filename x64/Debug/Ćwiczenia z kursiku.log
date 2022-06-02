@@ -1,0 +1,4 @@
+﻿  Ćwiczenia z kursiku.cpp
+C:\Users\lesiu\source\repos\Ćwiczenia z kursiku\Ćwiczenia z kursiku.cpp(51,5): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\lesiu\source\repos\Ćwiczenia z kursiku\Ćwiczenia z kursiku.cpp(215,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Ćwiczenia z kursiku.vcxproj -> C:\Users\lesiu\source\repos\Ćwiczenia z kursiku\x64\Debug\Ćwiczenia z kursiku.exe
